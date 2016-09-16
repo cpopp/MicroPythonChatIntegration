@@ -1,0 +1,1 @@
+from machine import freq, reset, reset_cause, unique_id, idle, Pin, PWM, ADC, UART, I2C, SPI, DEEPSLEEP, PWRON_RESET, HARD_RESET, DEEPSLEEP_RESET, WDT_RESET, SOFT_RESET
